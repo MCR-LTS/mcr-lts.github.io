@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'qiantuxuehuati';
+  /* 这里的路径是相对于生成的 html 文件的 */
+  /* 假设你的字体放在 source/fonts/myfont.ttf */
+  src: url('/fonts/qiantuxuehuati_副本.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
